@@ -1,2 +1,2 @@
 # students
-Student registration
+Student registration for future work
